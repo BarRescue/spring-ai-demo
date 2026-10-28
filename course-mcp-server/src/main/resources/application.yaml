@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: course-mcp-server
+  ai:
+    mcp:
+      server:
+        name: course-mcp-server
+        version: 1.0.0
+        type: SYNC
+        # Streamable HTTP: a single endpoint at /mcp (without this, Spring AI falls back to SSE)
+        protocol: STREAMABLE
+        instructions: >
+          This server provides information about the course catalog: search by category,
+          level or keyword, and details per course (price, date, location, available seats).
+
+server:
+  port: 8080
