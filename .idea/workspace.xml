@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="388b5d0b-0c08-4086-9796-14fa028469c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cursus-mcp-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course-mcp-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <execution>
+        <execution>
+          <execution>
+            <execution>
+              <execution>
+                <execution>
+                  <execution>
+                    <execution />
+                  </execution>
+                </execution>
+              </execution>
+            </execution>
+          </execution>
+        </execution>
+      </execution>
+    </execution>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BarRescue"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BarRescue/demo-spring-ai.git",
+    "accountId": "412b9a52-8399-41d3-a744-02693a202198"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.744747133063563" />
+      <entry key="MS500" value="4.034416933959008" />
+      <entry key="S2" value="6.319262817143649" />
+      <entry key="S5" value="10.785988241311598" />
+      <entry key="S10" value="14.82361068431201" />
+      <entry key="S30" value="19.131751872916457" />
+      <entry key="S60" value="20.495985405773492" />
+      <entry key="M2" value="21.229628276326107" />
+      <entry key="M5" value="21.687324346100088" />
+      <entry key="M10" value="21.842897488497524" />
+      <entry key="M15" value="21.895094299144848" />
+      <entry key="M30" value="21.94746161133835" />
+      <entry key="H1" value="21.973709385100957" />
+      <entry key="H2" value="21.98684933290045" />
+      <entry key="H4" value="21.993423325973797" />
+      <entry key="D1" value="21.998903701437133" />
+      <entry key="W1" value="21.99984338135836" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6703194040544094" />
+      <entry key="MS500" value="3.9966204327554022" />
+      <entry key="S2" value="6.304312995664453" />
+      <entry key="S5" value="10.774968621370055" />
+      <entry key="S10" value="14.815692346678578" />
+      <entry key="S30" value="19.128233377328822" />
+      <entry key="S60" value="20.494085235915204" />
+      <entry key="M2" value="21.22864015343467" />
+      <entry key="M5" value="21.686919585135122" />
+      <entry key="M10" value="21.842693489799075" />
+      <entry key="M15" value="21.894957937933476" />
+      <entry key="M30" value="21.947393249070604" />
+      <entry key="H1" value="21.973675158434503" />
+      <entry key="H2" value="21.986832208169414" />
+      <entry key="H4" value="21.99341476075699" />
+      <entry key="D1" value="21.99890227350483" />
+      <entry key="W1" value="21.99984317735833" />
+    </decayedShown>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php@8.3/8.3.19/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LJh4438jl89O9vFisEseXxxiVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rensmanders/Downloads/course-mcp-demo",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="388b5d0b-0c08-4086-9796-14fa028469c0" name="Changes" comment="" />
+      <created>1793177884197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793177884197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
